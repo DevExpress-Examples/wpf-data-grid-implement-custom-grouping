@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyViewModel.cs](./CS/DXGrid_CustomGrouping/MyViewModel.cs) (VB: [MyViewModel.vb](./VB/DXGrid_CustomGrouping/MyViewModel.vb))
+* [Window1.xaml](./CS/DXGrid_CustomGrouping/Window1.xaml) (VB: [Window1.xaml](./VB/DXGrid_CustomGrouping/Window1.xaml))
+* **[Window1.xaml.cs](./CS/DXGrid_CustomGrouping/Window1.xaml.cs) (VB: [Window1.xaml](./VB/DXGrid_CustomGrouping/Window1.xaml))**
+<!-- default file list end -->
 # How to implement custom grouping
 
 
