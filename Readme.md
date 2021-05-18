@@ -1,8 +1,3 @@
-# How to implement custom grouping
+# How to Apply Custom Rules to Group Rows
 
-
-<p>This example shows how to group rows using custom rules. When grouping by the 'Unit Price' column, the rows in this column that have values between 0 and 10 should be combined into a single group. Rows whose values fall between 10 and 20 should be combined into another group, etc.</p>
-
-<br/>
-
-
+This example shows how to apply custom rules to group rows. When you group data by the Unit Price column, rows in this column that have values between 0 and 10 are combined into a single group. Rows whose values fall between 10 and 20 are combined into another group, and so forth.
