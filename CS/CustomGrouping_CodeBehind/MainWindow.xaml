@@ -19,7 +19,7 @@
                 </dxg:GridColumn>
             </dxg:GridControl.Columns>
             <dxg:GridControl.View>
-                <dxg:TableView AutoWidth="True" />
+                <dxg:TableView AutoWidth="True" ShowGroupedColumns="True"/>
             </dxg:GridControl.View>
         </dxg:GridControl>
     </Grid>
