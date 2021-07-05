@@ -51,7 +51,7 @@ Namespace CustomGrouping_MVVM
 			Dim interval As String = IntervalByValue(args.Value)
 			args.DisplayText = interval
 		End Sub
-								
+
 		' Gets the interval which contains the specified value.
 		Private Function IntervalByValue(ByVal val As Object) As String
 			Dim d As Double = Math.Floor(Convert.ToDouble(val) / 10)

@@ -56,7 +56,7 @@ Namespace CustomGrouping_CodeBehind
 			Dim interval As String = IntervalByValue(e.Value)
 			e.DisplayText = interval
 		End Sub
-							
+
 		' Gets the interval which contains the specified value.
 		Private Function IntervalByValue(ByVal val As Object) As String
 			Dim d As Double = Math.Floor(Convert.ToDouble(val) / 10)
