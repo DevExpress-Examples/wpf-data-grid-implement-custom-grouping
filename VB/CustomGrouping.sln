@@ -1,0 +1,30 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CustomGrouping_MVVM", "CustomGrouping_MVVM\CustomGrouping_MVVM.vbproj", "{B77E235C-FE45-4B17-975E-AF59BCF6ABE9}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CustomGrouping_CodeBehind", "CustomGrouping_CodeBehind\CustomGrouping_CodeBehind.vbproj", "{BB95A18E-B4F4-4726-A059-BB35B2F6D564}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B77E235C-FE45-4B17-975E-AF59BCF6ABE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B77E235C-FE45-4B17-975E-AF59BCF6ABE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B77E235C-FE45-4B17-975E-AF59BCF6ABE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B77E235C-FE45-4B17-975E-AF59BCF6ABE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB95A18E-B4F4-4726-A059-BB35B2F6D564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB95A18E-B4F4-4726-A059-BB35B2F6D564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB95A18E-B4F4-4726-A059-BB35B2F6D564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB95A18E-B4F4-4726-A059-BB35B2F6D564}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFBE4F32-D0A1-41E8-A838-C9F8E86A1CEF}
+	EndGlobalSection
+EndGlobal
