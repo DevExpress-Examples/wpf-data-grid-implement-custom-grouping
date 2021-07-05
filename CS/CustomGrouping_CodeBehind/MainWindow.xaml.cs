@@ -51,7 +51,8 @@ namespace CustomGrouping_CodeBehind {
             string interval = IntervalByValue(e.Value);
             e.DisplayText = interval;
         }
-        // Gets the text that represents the interval which contains the specified value.
+        
+        // Gets the interval which contains the specified value.
         private string IntervalByValue(object val) {
             double d = Math.Floor(Convert.ToDouble(val) / 10);
             string ret = string.Format("{0:c} - {1:c} ", d * 10, (d + 1) * 10);
