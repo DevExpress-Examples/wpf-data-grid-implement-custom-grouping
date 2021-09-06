@@ -1,10 +1,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CustomGrouping_MVVM", "CustomGrouping_MVVM\CustomGrouping_MVVM.vbproj", "{B77E235C-FE45-4B17-975E-AF59BCF6ABE9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomGrouping_MVVM", "CustomGrouping_MVVM\CustomGrouping_MVVM.Net5.csproj", "{B77E235C-FE45-4B17-975E-AF59BCF6ABE9}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CustomGrouping_CodeBehind", "CustomGrouping_CodeBehind\CustomGrouping_CodeBehind.vbproj", "{BB95A18E-B4F4-4726-A059-BB35B2F6D564}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomGrouping_CodeBehind", "CustomGrouping_CodeBehind\CustomGrouping_CodeBehind.Net5.csproj", "{BB95A18E-B4F4-4726-A059-BB35B2F6D564}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
