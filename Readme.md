@@ -37,7 +37,7 @@ This example shows how to apply custom rules to group rows. When you group data 
 
 ## More Examples
 
-- [How to sort group rows by summary values](https://github.com/DevExpress-Examples/how-to-sort-group-rows-by-summary-values-e1540)
-- [How to display custom text within data cells and groups](https://github.com/DevExpress-Examples/how-to-display-custom-text-within-data-cells-and-groups-t327301)
+- [How to display custom text within data cells](https://github.com/DevExpress-Examples/how-to-display-custom-text-within-dxgrid-cells-e2020)
 - [How to Prevent Group Rows from being Collapsed](https://github.com/DevExpress-Examples/how-to-prevent-group-rows-from-being-collapsed-e2024)
 - [How to Prevent Group Rows from being Expanded](https://github.com/DevExpress-Examples/how-to-prevent-group-rows-from-being-expanded-e2025)
+- [How to sort group rows by summary values](https://github.com/DevExpress-Examples/how-to-sort-group-rows-by-summary-values-e1540)
