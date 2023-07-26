@@ -37,7 +37,6 @@ This example shows how to apply custom rules to group rows. When you group data 
 
 ## More Examples
 
-- [How to display custom text within data cells](https://github.com/DevExpress-Examples/how-to-display-custom-text-within-dxgrid-cells-e2020)
-- [How to Prevent Group Rows from being Collapsed](https://github.com/DevExpress-Examples/how-to-prevent-group-rows-from-being-collapsed-e2024)
-- [How to Prevent Group Rows from being Expanded](https://github.com/DevExpress-Examples/how-to-prevent-group-rows-from-being-expanded-e2025)
-- [How to sort group rows by summary values](https://github.com/DevExpress-Examples/how-to-sort-group-rows-by-summary-values-e1540)
+- [WPF Data Grid - Display Custom Text Within Data Cells](https://github.com/DevExpress-Examples/how-to-display-custom-text-within-dxgrid-cells-e2020)
+- [WPF Data Grid - Prevent Expand and Collapse Operations for Group Rows](https://github.com/DevExpress-Examples/wpf-grid-prevent-expand-collapse-operations-for-group-rows)
+- [WPF Data Grid - Sort Group Rows by Summary Values](https://github.com/DevExpress-Examples/how-to-sort-group-rows-by-summary-values-e1540)
