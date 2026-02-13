@@ -42,7 +42,7 @@ This example shows how to apply custom rules to group rows. When you group data 
 - [WPF Data Grid - Prevent Expand and Collapse Operations for Group Rows](https://github.com/DevExpress-Examples/wpf-grid-prevent-expand-collapse-operations-for-group-rows)
 - [WPF Data Grid - Sort Group Rows by Summary Values](https://github.com/DevExpress-Examples/how-to-sort-group-rows-by-summary-values-e1540)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-implement-custom-grouping&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-implement-custom-grouping&~~~was_helpful=no)
 
